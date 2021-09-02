@@ -1,0 +1,1 @@
+from main import format_name, format_str, format_phone
